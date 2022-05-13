@@ -11,10 +11,11 @@ K-Digital Training
 ![mid_Animation](https://user-images.githubusercontent.com/62808393/168309486-3cc79304-e98e-42c2-91ca-b6912ea6d734.gif)
 
 #### Result
-- **Presentation**
-- **Model Code**
-- **Service Code**
+- [**Presentation**](https://github.com/SeungukJeong/LIKELION_AI_SCHOOL_5th/blob/main/Mid_Project/Mid_Proj_presentation.pdf)
+- [**Model Code**](https://github.com/SeungukJeong/LIKELION_AI_SCHOOL_5th/blob/main/Mid_Project/Mid_Proj_Final_Code.ipynb)
+- [**Service Code**](https://github.com/SeungukJeong/LIKELION_AI_SCHOOL_5th/tree/main/Mid_Project/Service_Webpage)
 - [**Notion**](https://seunguk0214.notion.site/Semi-02-Mid-7615ac45a6ef4189ba7b1d1a1108a45d)
+- [**Data Source**](https://dacon.io/competitions/official/235747/overview/description)
 ---  
 
 ## 🌸 Semi Project 01 (Mar.31 - Apr.06)  
@@ -22,9 +23,11 @@ K-Digital Training
 **Analysis of Changes in Healthcare Interests Before and After COVID-19**
 
 #### Result
-- [**Presentation**](https://github.com/SeungukJeong/LIKELION_AI_SCHOOL_5th/blob/main/Mid_Project/Mid_Proj_presentation.pdf)
-- [**Model Code**](https://github.com/SeungukJeong/LIKELION_AI_SCHOOL_5th/blob/main/Mid_Project/Mid_Proj_Final_Code.ipynb)
-- [**Service Code**](https://github.com/SeungukJeong/LIKELION_AI_SCHOOL_5th/tree/main/Mid_Project/Service_Webpage)
+
+
+
+
+
 - [**Data Source**](https://www.data.go.kr/data/15004104/openapi.do)
 ---
 
