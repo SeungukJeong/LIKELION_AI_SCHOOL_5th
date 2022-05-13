@@ -23,10 +23,9 @@ K-Digital Training
 **Analysis of Changes in Healthcare Interests Before and After COVID-19**  
 
 #### Result
-- [**Presentation**]()
-- [**Model Code**]()
-- [**Service Code**]()
-- [**Notion**]()
+- [**Presentation**](https://github.com/SeungukJeong/LIKELION_AI_SCHOOL_5th/blob/main/Semi_Project_01/Semi_Proj_01_presentation.pdf)
+- [**Source Code**](https://github.com/SeungukJeong/LIKELION_AI_SCHOOL_5th/tree/main/Semi_Project_01)
+- [**Notion**](https://seunguk0214.notion.site/Semi-project-1-19-8935e9d014f14e248ea5a5c2a3e6decd)
 - [**Data Source**](https://www.data.go.kr/data/15004104/openapi.do)
 ---
 
@@ -35,8 +34,7 @@ K-Digital Training
 **Titanic Survival Prediction**  
 
 #### Result
-- [**Presentation**]()  
-- [**Source Code**]()  
+- [**Source Code**](https://github.com/SeungukJeong/LIKELION_AI_SCHOOL_5th/blob/main/Semi_Project_02/Semi_Project_02_Final_Code.ipynb)  
 - [**Notion**](https://seunguk0214.notion.site/Semi-02-Mid-7615ac45a6ef4189ba7b1d1a1108a45d)  
 - [**Data Source**](https://www.kaggle.com/c/titanic)  
 ---
