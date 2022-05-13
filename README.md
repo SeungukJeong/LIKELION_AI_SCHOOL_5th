@@ -23,11 +23,10 @@ K-Digital Training
 **Analysis of Changes in Healthcare Interests Before and After COVID-19**  
 
 #### Result
-
-
-
-
-
+- [**Presentation**]()
+- [**Model Code**]()
+- [**Service Code**]()
+- [**Notion**]()
 - [**Data Source**](https://www.data.go.kr/data/15004104/openapi.do)
 ---
 
@@ -36,8 +35,8 @@ K-Digital Training
 **Titanic Survival Prediction**  
 
 #### Result
-- **Presentation**  
-- **Source Code**  
+- [**Presentation**]()  
+- [**Source Code**]()  
 - [**Notion**](https://seunguk0214.notion.site/Semi-02-Mid-7615ac45a6ef4189ba7b1d1a1108a45d)  
 - [**Data Source**](https://www.kaggle.com/c/titanic)  
 ---
@@ -47,8 +46,8 @@ K-Digital Training
 **Credit Card User Arrear Prediction**  
 
 #### Result
-- **Presentation**
-- **Source Code**  
+- [**Presentation**]()
+- [**Source Code**]()  
 - [**Notion**](https://seunguk0214.notion.site/Semi-03-662e05b2939040bf917225b058f6322c)
 - [**Data Source**](https://www.dacon.io/competitions/official/235713/overview/description)
 ---
