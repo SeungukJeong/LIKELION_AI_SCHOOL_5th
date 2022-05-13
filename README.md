@@ -38,7 +38,7 @@ K-Digital Training
 - [**Data Source: Kaggle**](https://www.kaggle.com/c/titanic)
 ---
 
-## 🦆 Semi Project 03 (Apr.14 - Apr.18)  
+## 🦆 Semi Project 03 (May.02 - May.10)  
 **Credit Card User Arrear Prediction**
 
 #### Result
