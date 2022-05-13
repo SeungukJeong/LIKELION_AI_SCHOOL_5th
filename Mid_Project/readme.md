@@ -4,3 +4,13 @@
 **News Title Topic Classification Modelling and Application**    
 
 ![mid_Animation](https://user-images.githubusercontent.com/62808393/168309486-3cc79304-e98e-42c2-91ca-b6912ea6d734.gif)
+
+#### Result
+- Presentation
+- Model Code
+- Service Code
+
+#### Role
+- EDA
+- Modelling
+- Presentation
