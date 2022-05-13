@@ -35,16 +35,16 @@ K-Digital Training
 - **Presentation**
 - **Source Code**
 - [**Notion**](https://seunguk0214.notion.site/Semi-02-Mid-7615ac45a6ef4189ba7b1d1a1108a45d)
-
+- [**Data Source: Kaggle**](https://www.kaggle.com/c/titanic)
 ---
 
 ## 🦆 Semi Project 03 (Apr.14 - Apr.18)  
-**Titanic Survival Prediction**
+**Credit Card User Arrear Prediction**
 
 #### Result
 - **Presentation**
 - **Source Code**  
 - [**Notion**](https://seunguk0214.notion.site/Semi-03-662e05b2939040bf917225b058f6322c)
-
+- [**Data Source: Dacon**](https://www.dacon.io/competitions/official/235713/overview/description)
 ---
 
