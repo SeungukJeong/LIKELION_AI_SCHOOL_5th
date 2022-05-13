@@ -18,17 +18,18 @@ K-Digital Training
 ---  
 
 ## 🌸 Semi Project 01 (Mar.31 - Apr.06)  
-
+**코로나19 전후 헬스케어 관심도 변화 분석**
 **Analysis of Changes in Healthcare Interests Before and After COVID-19**
 
 #### Result
 - **Presentation**
 - **Source Code**
 - [**Notion**](https://seunguk0214.notion.site/Semi-project-1-19-8935e9d014f14e248ea5a5c2a3e6decd)
-
+- [**Data Source: Public Data Portal**](https://www.data.go.kr/data/15004104/openapi.do)
 ---
 
 ## 🦸 Semi Project 02 (Apr.14 - Apr.18)  
+**타이타닉 생존 분석**
 **Titanic Survival Prediction**
 
 #### Result
@@ -39,6 +40,7 @@ K-Digital Training
 ---
 
 ## 🦆 Semi Project 03 (May.02 - May.10)  
+**신용카드 사용자 연체 예측**
 **Credit Card User Arrear Prediction**
 
 #### Result
