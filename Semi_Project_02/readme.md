@@ -1,4 +1,4 @@
-## [🦸 Semi Project 02 (Apr.14 - Apr.18)]
+## 🦸 Semi Project 02 (Apr.14 - Apr.18)
 **타이타닉 생존 분석**  
 **Titanic Survival Prediction**  
 
