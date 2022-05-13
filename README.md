@@ -3,7 +3,7 @@ K-Digital Training
 (Mar.17.2022 - Jun.03.2022)    
 
 ---
-## 🦸 Mid Project (Apr.19 - Apr.25)  
+## [🦸 Mid Project (Apr.19 - Apr.25)](https://github.com/SeungukJeong/LIKELION_AI_SCHOOL_5th/tree/main/Mid_Project)  
 
 **뉴스 제목 토픽 분류 모델 개발 및 적용**        
 **News Title Topic Classification Modelling and Application**      
@@ -18,7 +18,7 @@ K-Digital Training
 - [**Data Source**](https://dacon.io/competitions/official/235747/overview/description)
 ---  
 
-## 🌸 Semi Project 01 (Mar.31 - Apr.06)  
+## [🌸 Semi Project 01 (Mar.31 - Apr.06)](https://github.com/SeungukJeong/LIKELION_AI_SCHOOL_5th/tree/main/Semi_Project_01)  
 **코로나19 전후 헬스케어 관심도 변화 분석**  
 **Analysis of Changes in Healthcare Interests Before and After COVID-19**  
 
@@ -31,7 +31,7 @@ K-Digital Training
 - [**Data Source**](https://www.data.go.kr/data/15004104/openapi.do)
 ---
 
-## 🦸 Semi Project 02 (Apr.14 - Apr.18)  
+## [🦸 Semi Project 02 (Apr.14 - Apr.18)](https://github.com/SeungukJeong/LIKELION_AI_SCHOOL_5th/tree/main/Semi_Project_02)  
 **타이타닉 생존 분석**  
 **Titanic Survival Prediction**  
 
