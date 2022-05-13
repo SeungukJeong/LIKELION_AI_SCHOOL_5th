@@ -22,6 +22,7 @@ K-Digital Training
 **Analysis of Changes in Healthcare Interests Before and After COVID-19**
 - **Presentation**
 - **Source Code**
+- [**Notion**](https://seunguk0214.notion.site/Semi-project-1-19-8935e9d014f14e248ea5a5c2a3e6decd)
 
 ---
 
@@ -30,9 +31,8 @@ K-Digital Training
 
 #### Result
 - **Presentation**
-- **Source Code**  
-
----
+- **Source Code**
+- **Notion**
 
 ---
 
@@ -42,6 +42,7 @@ K-Digital Training
 #### Result
 - **Presentation**
 - **Source Code**  
+- **Notion**
 
 ---
 
