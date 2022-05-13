@@ -42,7 +42,7 @@ K-Digital Training
 - [**Data Source**](https://www.kaggle.com/c/titanic)  
 ---
 
-## 🦆 Semi Project 03 (May.02 - May.10)    
+## 🦆 [Semi Project 03 (May.02 - May.10)](https://github.com/SeungukJeong/LIKELION_Semi_Project_03)    
 **신용카드 사용자 연체 예측**  
 **Credit Card User Arrear Prediction**  
 
