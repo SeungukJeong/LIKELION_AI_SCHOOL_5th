@@ -25,7 +25,7 @@ K-Digital Training
 - **Presentation**
 - **Source Code**
 - [**Notion**](https://seunguk0214.notion.site/Semi-project-1-19-8935e9d014f14e248ea5a5c2a3e6decd)
-- [**Data Source: Public Data Portal**](https://www.data.go.kr/data/15004104/openapi.do)
+- [**Data Source**](https://www.data.go.kr/data/15004104/openapi.do)
 ---
 
 ## 🦸 Semi Project 02 (Apr.14 - Apr.18)  
@@ -36,7 +36,7 @@ K-Digital Training
 - **Presentation**
 - **Source Code**
 - [**Notion**](https://seunguk0214.notion.site/Semi-02-Mid-7615ac45a6ef4189ba7b1d1a1108a45d)
-- [**Data Source: Kaggle**](https://www.kaggle.com/c/titanic)
+- [**Data Source**](https://www.kaggle.com/c/titanic)
 ---
 
 ## 🦆 Semi Project 03 (May.02 - May.10)  
@@ -47,6 +47,6 @@ K-Digital Training
 - **Presentation**
 - **Source Code**  
 - [**Notion**](https://seunguk0214.notion.site/Semi-03-662e05b2939040bf917225b058f6322c)
-- [**Data Source: Dacon**](https://www.dacon.io/competitions/official/235713/overview/description)
+- [**Data Source**](https://www.dacon.io/competitions/official/235713/overview/description)
 ---
 
