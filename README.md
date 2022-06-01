@@ -51,3 +51,16 @@ K-Digital Training
 
 ---
 
+## 🍀 [Final Project (May.19 - May.31)](https://github.com/SeungukJeong/Likelion_FinalProject/tree/main) 
+**사용자 감정 분석을 통한 음악 추천 서비스 개발**
+**Music Recommendation Service through User Sentiment Analysis**
+
+![final_proj](https://user-images.githubusercontent.com/62808393/171410923-a86960c1-cd0d-460c-b772-f10fdc7fd780.gif)
+
+- [**Presentation**](https://github.com/SeungukJeong/Likelion_FinalProject/blob/main/Team06_presentation.pdf)
+- [**Modelling Code**](https://github.com/SeungukJeong/Likelion_FinalProject/tree/modeling) 
+- [**Scraping Code**](https://github.com/SeungukJeong/Likelion_FinalProject/tree/scraping) 
+- [**Django Code**](https://github.com/SeungukJeong/Likelion_FinalProject/tree/django) 
+- [**Notion**](https://seunguk0214.notion.site/FINAL-PROJECT-0c2c768b64d641ebbf1db02c7d1dd64b) 
+- **Role** : Scraping, Data Preprocessing, KoBERT Modelling
+
