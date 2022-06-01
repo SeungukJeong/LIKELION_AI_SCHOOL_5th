@@ -52,7 +52,7 @@ K-Digital Training
 ---
 
 ## 🍀 [Final Project (May.19 - May.31)](https://github.com/SeungukJeong/Likelion_FinalProject/tree/main) 
-**사용자 감정 분석을 통한 음악 추천 서비스 개발**
+**사용자 감정 분석을 통한 음악 추천 서비스 개발**  
 **Music Recommendation Service through User Sentiment Analysis**
 
 ![final_proj](https://user-images.githubusercontent.com/62808393/171410923-a86960c1-cd0d-460c-b772-f10fdc7fd780.gif)
